@@ -1,0 +1,1 @@
+print ("texto {} ...texto{} ...texto.")
